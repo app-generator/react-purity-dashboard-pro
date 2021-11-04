@@ -17,7 +17,7 @@ The product comes with a simple JWT authentication flow: **login/register/logout
 > Links
 
 - [Full-Stack React Purity PRO](https://appseed.us/full-stack/react-purity-dashboard) - product page
-- [Full-Stack React Purity PRO](https://fullstack-react-purity-dashboard.appseed-srv1.com/) - LIVE Demo
+- [Full-Stack React Purity PRO](https://fullstack-react-purity-dashboard.appseed-srv1.com/#/auth/authentication/sign-in/basic) - LIVE Demo
 - [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version) - the backend server 
 - Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
 
