@@ -1,29 +1,24 @@
-# Full-Stack React Purity PRO
+# [Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/)
 
 Purity UI Dashboard PRO is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. 
-The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version). 
+The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs). 
+
+- 👉 [Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/) - product page
+- 👉 [Full-Stack React Purity PRO](https://fullstack-react-purity-dashboard.appseed-srv1.com/#/auth/authentication/sign-in/basic) - LIVE Demo
 
 <br />
 
 > Features
 
-- Innovative Chakra UI Design - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
-- React, Redux, Redux-persist
-- Authentication: JWT Login/Register/Logout
-- [Node JS API server](https://github.com/app-generator/api-server-nodejs-pro) for a complete full-stack experience 
+- ✅ Innovative Chakra UI Design - Creafted by [Creative-Tim](https://bit.ly/3fKQZaL)
+- ✅ React, Redux, Redux-persist
+- ✅ Authentication: JWT Login/Register/Logout
+- ✅ Full-stack ready using **[Node JS API Server](https://github.com/app-generator/api-server-nodejs)** (open-source project)
+  - Features: Typescript / SQLite / TypeORM / Joy (validation) / Passport library - `passport-jwt` strategy.
 
 <br />
 
-> Links
-
-- [Full-Stack React Purity PRO](https://appseed.us/full-stack/react-purity-dashboard) - product page
-- [Full-Stack React Purity PRO](https://fullstack-react-purity-dashboard.appseed-srv1.com/#/auth/authentication/sign-in/basic) - LIVE Demo
-- [Node JS API Server](https://github.com/app-generator/api-server-nodejs-pro) (PRO version) - the backend server 
-- Support via **Github** (issues tracker) and [Discord](https://appseed.us/support) - LIVE Assistance 
-
-<br >
-
-![Full-Stack React Purity PRO - Full-stack product built in React and Node JS by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/140281327-d5ad49ba-2218-4c90-86ba-a75e52ae08fe.gif)
+![Full-Stack React Purity PRO - Full-stack product built in React and Node JS by AppSeed and Creative-Tim.](https://user-images.githubusercontent.com/51070104/205429093-33d14286-3500-4489-b4cb-214f998d150d.png)
 
 <br />
 
@@ -31,16 +26,16 @@ The product comes with a simple JWT authentication flow: **login/register/logout
 
 To use the product Node JS (>= 12.x) is required and GIT to clone/download the project from the public repository.
 
-**Step #1** - Clone the project
+> 👉 **Step 1** - Download the ZIP from the official product page
 
 ```bash
-$ git clone https://github.com/app-generator/priv-react-purity-dashboard-pro.git
+$ unzip react-purity-dashboard-pro.zip
 $ cd priv-react-purity-dashboard-pro
 ```
 
 <br >
 
-**Step #2** - Install dependencies via NPM or yarn
+> 👉 **Step 2** - Install dependencies via NPM or yarn
 
 ```bash
 $ npm i
@@ -50,7 +45,20 @@ $ yarn
 
 <br />
 
-**Step #3** - Start in development mode
+> 👉 **Step 3** - Edit the `.env` using the template `.env.sample`. 
+
+```env
+
+REACT_APP_BACKEND_SERVER='http://localhost:5000/api/'
+
+REACT_APP_GITHUB_OAUTH_CLIENT_ID     = ... # Github OAuth Client
+REACT_APP_GITHUB_OAUTH_CLIENT_SECRET = ... # Github OAuth Secret
+REACT_APP_GITHUB_OAUTH_REDIRECT_URL  = ... # Github OAuth Callback URL
+```
+
+<br />
+
+> 👉 **Step 4** - Start in development mode
 
 ```bash
 $ npm run start 
@@ -150,4 +158,4 @@ The product is also open-source and cis already configured to work with Berry Da
 <br />
 
 ---
-Full-Stack React Purity PRO - Provided by [Creative-Tim](https://bit.ly/3fKQZaL/) and **AppSeed [App Generator](https://appseed.us/app-generator)**. 
+[Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/) - Provided by [Creative-Tim](https://bit.ly/3fKQZaL/) and `AppSeed`. 

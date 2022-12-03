@@ -1,5 +1,10 @@
 # Change Log
 
+## [v1.0.2] 2022-12--3
+### Changes
+
+- Bump UI:  `v2.0.2`
+
 ## [1.0.1] 2021-11-04
 ### Improvements
 
