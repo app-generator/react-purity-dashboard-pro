@@ -1,6 +1,12 @@
 # Change Log
 
-## [v1.0.2] 2022-12--3
+## [v1.0.3] 2022-12-03
+### Changes
+
+- UI/UX Changes
+- Links update (minor)
+
+## [v1.0.2] 2022-12-03
 ### Changes
 
 - Bump UI:  `v2.0.2`

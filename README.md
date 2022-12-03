@@ -1,6 +1,6 @@
 # [Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/)
 
-Purity UI Dashboard PRO is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. 
+[Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/) is built with over 300 frontend individual elements, like buttons, inputs, navbars, nav tabs, cards, or alerts, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using JSS files and classes. 
 The product comes with a simple JWT authentication flow: **login/register/logout** powered by a [Node JS API Server](https://github.com/app-generator/api-server-nodejs). 
 
 - 👉 [Full-Stack React Purity PRO](https://appseed.us/product/purity-dashboard-pro/full-stack/react/) - product page
@@ -51,9 +51,6 @@ $ yarn
 
 REACT_APP_BACKEND_SERVER='http://localhost:5000/api/'
 
-REACT_APP_GITHUB_OAUTH_CLIENT_ID     = ... # Github OAuth Client
-REACT_APP_GITHUB_OAUTH_CLIENT_SECRET = ... # Github OAuth Secret
-REACT_APP_GITHUB_OAUTH_REDIRECT_URL  = ... # Github OAuth Callback URL
 ```
 
 <br />
@@ -138,18 +135,20 @@ The API Server definition is provided by the [Nodejs API Server](https://github.
 
 <br />
 
-## Node JS API Server
+## [Node JS API Server](https://appseed.us/boilerplate-code/nodejs-starter/)
 
-The product is also open-source and cis already configured to work with Berry Dashboard Template - product features:
+The product is also open-source and cis already configured to work with Berry Dashboard Template.
 
-- Nodejs / Express server
-- JWT authentication (`passport-jwt` strategy)
-- Persistence: MongoDB 
+- [Node JS API](https://github.com/app-generator/api-server-nodejs) - `source code`
+- [Node JS API Server](https://appseed.us/boilerplate-code/nodejs-starter/) - `product page`
 
-> Links
+> Features:
 
-- [Node JS API](https://github.com/app-generator/api-server-nodejs) - source code
-- [Node JS API](https://appseed.us/boilerplate-code) - product page
+- ✅ Nodejs / Express server
+- ✅ JWT authentication (`passport-jwt` strategy)
+- ✅ Persistence
+  - `SQLite`
+  - `MongoDB` (another product) 
 
 <br />
 
